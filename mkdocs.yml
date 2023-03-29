@@ -4,5 +4,5 @@ site_url: https://anthonysirico.github.io/PyGeo-TMS-mkdocs.io/
 nav:
   - Home: index.md
   - Papers: papers.md
- 
+  - Links: links.md 
 theme: readthedocs
