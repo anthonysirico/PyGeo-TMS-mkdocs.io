@@ -1,0 +1,8 @@
+site_name: GeoDL EngDesign
+site_url: http://127.0.0.1:8001/
+
+nav:
+  - Home: index.md
+  - Papers: papers.md
+ 
+theme: readthedocs
