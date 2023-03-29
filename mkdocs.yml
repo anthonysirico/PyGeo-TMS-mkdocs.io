@@ -5,4 +5,5 @@ nav:
   - Home: index.md
   - Papers: papers.md
   - Links: links.md 
+  - About Me: about_me.md
 theme: readthedocs
