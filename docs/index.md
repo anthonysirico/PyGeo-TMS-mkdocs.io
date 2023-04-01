@@ -1,5 +1,5 @@
-# Geometric Deep Learning Towards Aircraft Thermal Management Systems
+# Geometric Deep Learning Towards Graph-Based Engineering Designs
 
-This project will focus on applying Geometric Deep Learning (GDL) towards aircraft Thermal Management Systems (TMS).
+
 
 

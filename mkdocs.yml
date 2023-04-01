@@ -3,7 +3,10 @@ site_url: https://anthonysirico.github.io/PyGeo-TMS-mkdocs.io/
 
 nav:
   - Home: index.md
-  - Papers: papers.md
+  - Frequency Matching: fm.md
+    - Papers: fm_papers.md
+  - TMS: tms.md
+    - Papers: tms_papers.md
   - Links: links.md 
   - About Me: about_me.md
 theme: readthedocs
