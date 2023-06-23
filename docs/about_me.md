@@ -15,5 +15,5 @@
 	- Enterprise Systems Engineer, National Reconaissance Office (NRO), 2021 - 2023
 	- Department Head, Multi-Engine Flight Instructor for the T-44C, VT-31 "Wise Owls", 2023 - pres
 
-<img src="https://github.com/anthonysirico/PyGeo-TMS-mkdocs.io/blob/main/ep3.jpg" alt="EP-3E ARIES II" style="float: ;eft; margin-right: 10px;" />
+![EP-3E ARIES II](https://github.com/anthonysirico/PyGeo-TMS-mkdocs.io/blob/main/ep3.jpg)
 
