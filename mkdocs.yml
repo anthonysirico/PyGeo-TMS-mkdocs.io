@@ -1,4 +1,10 @@
 site_name: GeoDL EngDesign
 site_url: https://anthonysirico.github.io/PyGeo-TMS-mkdocs.io
 
+nav:
+  - Home: index.md
+  - About: about_me.md
+  - Links: links.md
+  - Papers: published_papers.md
+
 theme: readthedocs
