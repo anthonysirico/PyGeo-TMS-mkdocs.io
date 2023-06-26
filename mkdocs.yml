@@ -5,6 +5,16 @@ nav:
   - Home: index.md
   - About: about_me.md
   - Links: links.md
-  - Papers: published_papers.md
+  - Publications: published_papers.md
+  - Cited Works:
 
 theme: readthedocs
+
+plugins:
+  - search
+  - bibtex:
+      bib_file: "References.bib"
+      bib_dir: ./docs
+
+markdown_extensions:
+  - footnotes
